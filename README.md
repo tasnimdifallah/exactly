@@ -1,4 +1,4 @@
-# Tasnim Difallaha
+# Tasnim Difallah
 
 ## Data Scientist
 
